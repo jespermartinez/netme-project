@@ -1,0 +1,10 @@
+
+    @media(max-width:1250px){
+
+        header nav.left_nav{display:none;}
+        header nav.right_nav{display:none;}
+
+        .menu-toggle{display:block;}
+        header .case_img img{margin-left:0;}
+
+    }
